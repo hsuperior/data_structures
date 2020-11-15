@@ -11,7 +11,7 @@ int main() {
 
     cout << "a: " << a << endl;
     cout << "r: " << r << endl;
-
+    
     r++;
 
     cout << "a: " << a << endl;
